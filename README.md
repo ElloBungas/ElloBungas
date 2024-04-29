@@ -1,4 +1,4 @@
-### Seja bem-vindo! 👋
+### Seja bem-vindo! 🐰
 
 - 🔭 Estou estudando na Alura
 - 🌱 Estou me desenvolvendo na linguagem Javascript
